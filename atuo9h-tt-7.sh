@@ -7,5 +7,5 @@ cd ~ &&
 /etc/init.d/cron restart &&
 git clone https://github.com/MauroS5/9Hits-AutoInstall.git &&
 chmod -R 777 9Hits-AutoInstall &&
-9Hits-AutoInstall/install.sh "2" "7081ae5435ea52a14c421c9a0a53e136" "7" "15" &&
+9Hits-AutoInstall/install.sh "2" "7081ae5435ea52a14c421c9a0a53e136" "5" "15" &&
 rm install.sh
